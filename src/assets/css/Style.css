@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+/* Landing page */
+ /* navbar */
+.header{
+    background-color: #2163ac;
+}
+
+.title{
+    color: #fff;
+    vertical-align: center;
+    font-size: 18px;
+}
+
+.news{
+    font-size: 20px;
+}
+
+span{
+    color: red;
+}
+
+mark{
+    background-color: yellow;
+}
+
+.img-fluid{
+    width: 500px;
+    height: 300px;
+}
+
+.article{
+    color: #747070;
+}
+
+/* content page */
+
+.content{
+    background-color: #f7f5f7;
+}
+
+.info{
+    background-color: #f7f5f7;
+}
+
+.last{
+    color: #747070;
+
+}
